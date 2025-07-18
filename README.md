@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Victor Aristizábal
 
-<!--
-**aleospiria/aleospiria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de software
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que manejo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Lenguajes de programación
+- **Java** (proyectos universitarios y personales, lógica orientada a objetos)
+- **Python** (scripts, automatizaciones y prototipado rápido)
+- **C#** (uso con .NET y Visual Studio en contextos de backend y APIs)
+- **Kotlin** (desarrollo de apps móviles en Android Studio)
+- **PHP** (desarrollo web clásico y con bases de datos)
+- **HTML & CSS** (estructuración y diseño web)
+
+- ### 🗃️ Bases de datos y backend
+- MySQL, SQLite, PostgreSQL
+- Entity Framework (Code First)
+- Creación de Web APIs RESTful
+- Git & GitHub (control de versiones y colaboración)
+
+### 🧪 Herramientas y entornos
+- Android Studio, Visual Studio, VS Code, Git Bash, GitHub Desktop
+- Postman (testeo de APIs)
+
+  
