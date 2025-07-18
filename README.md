@@ -12,7 +12,7 @@ Soy estudiante de software
 - **PHP** (desarrollo web clásico y con bases de datos)
 - **HTML & CSS** (estructuración y diseño web)
 
-- ### 🗃️ Bases de datos y backend
+  ### 🗃️ Bases de datos y backend
 - MySQL, SQLite, PostgreSQL
 - Entity Framework (Code First)
 - Creación de Web APIs RESTful
