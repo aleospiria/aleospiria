@@ -44,7 +44,7 @@ Me encanta aprender nuevas herramientas y aplicarlas en proyectos reales.
 
 ---
 
-## 📫 **Conecta conmigo**
+## 📫 **Contactame**
 
 📧 alejoospi779@gmail.com  
 
